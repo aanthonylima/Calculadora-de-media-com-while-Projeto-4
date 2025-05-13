@@ -1,2 +1,2 @@
-# Calculadora-de-media-com-while-Projeto-4
-Uso do While para criar essa calculadora de média.
+# Calculadora de média com While - Projeto 4
+Algoritmo de uma calculadora de médias, seguindo o padrão dos outros algoritmos, porém agora utilizando o While.
